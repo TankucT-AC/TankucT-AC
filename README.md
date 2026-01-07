@@ -38,9 +38,3 @@
 
 ### 📫 Связь
 * **Telegram:** [@hitman_maths]
-
----
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_ЛОГИН_GITHUB&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
