@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="#english"><img src="https://img.shields.io/badge/Language-English-blue?style=for-the-badge" border="0"></a>
-  <a href="#russian"><img src="https://img.shields.io/badge/Язык-Русский-red?style=for-the-badge" border="0"></a>
-</p>
-
 <details>
 <summary><b>🇷🇺 Нажмите, чтобы прочитать на русском</b></summary>
 <br />
