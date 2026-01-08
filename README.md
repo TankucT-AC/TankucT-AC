@@ -1,7 +1,12 @@
-[English](#english) | [Русский](#russian)
+<p align="center">
+  <a href="#english"><img src="https://img.shields.io/badge/Language-English-blue?style=for-the-badge" border="0"></a>
+  <a href="#russian"><img src="https://img.shields.io/badge/Язык-Русский-red?style=for-the-badge" border="0"></a>
+</p>
 
-## Russian
-
+<details>
+<summary><b>🇷🇺 Нажмите, чтобы прочитать на русском</b></summary>
+<br />
+<div id="russian">
 # Привет! Я Магомед Гаджиумаров 👋
 
 ### 🎓 Студент МАИ & 🛠️ Junior Engineer
@@ -42,9 +47,10 @@
 
 ### 📫 Связь
 * **Telegram:** [@hitman_maths]
+</div>
+</details>
 
-## English
-
+<div id="english">
 # Hi! I'm Magomed Gadzhiumarov 👋
 
 ### 🎓 MAI Student & 🛠️ Junior Engineer
@@ -85,3 +91,4 @@ A university project (backend) — an information system dedicated to Dagestan's
 
 ### 📫 Contact Me
 * **Telegram:** [@hitman_maths]
+</div>
