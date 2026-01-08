@@ -8,7 +8,7 @@
 <br />
 <div id="russian">
 
-Привет! Я Магомед Гаджиумаров 👋
+# Привет! Я Магомед Гаджиумаров 👋
 
 ### 🎓 Студент МАИ & 🛠️ Junior Engineer
 
@@ -52,7 +52,8 @@
 </details>
 
 <div id="english">
-Hi! I'm Magomed Gadzhiumarov 👋
+
+# Hi! I'm Magomed Gadzhiumarov 👋
 
 ### 🎓 MAI Student & 🛠️ Junior Engineer
 
