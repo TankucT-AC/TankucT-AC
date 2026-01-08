@@ -1,3 +1,5 @@
+[English version](README.en.md)
+
 # Привет! Я Магомед Гаджиумаров 👋
 
 ### 🎓 Студент МАИ & 🛠️ Junior Engineer
