@@ -7,18 +7,16 @@ I specialize in system programming, multi-threaded applications, and network pro
 
 ### 🛠️ Languages & Skills
 
-**Languages & Frameworks I use:**
-
+**Primary Stack:**  
 [![My Skills](https://skillicons.dev/icons?i=cpp,qt,cmake,sqlite)](https://skillicons.dev)
 
-**Languages & Frameworks I know:**
-
-[![My Skills](https://skillicons.dev/icons?i=c,python,django,scala,js,go)](https://skillicons.dev)
+**Secondary & Tools:**  
+[![My Skills](https://skillicons.dev/icons?i=c,python,django,scala,js,go,git,linux)](https://skillicons.dev)
 
 **Core Competencies:**
 - **C++ Development**: STL, Boost, Template Metaprogramming
 - **Systems & Networking**: Multi-threading, Network Protocols, System Programming
-- **Databases & Tools**: SQL, Database Schema Design, Linux, Git, OpenCode & OpenRouter (AI tools)
+- **Databases & Tools**: SQL, Database Schema Design, Linux, Git, OpenCode & OpenRouter
 
 ---
 
@@ -26,16 +24,15 @@ I specialize in system programming, multi-threaded applications, and network pro
 
 - 🎓 **Education**: Computer Science at **Moscow Aviation Institute (MAI)**
 - 🔭 **Current Focus**: High-performance system architecture and network protocols
-- 🌐 **Open Source**: Active contributor to [**KDE Plasma**](https://invent.kde.org/mgadzhiumarov)
+- 🌐 **Open Source**: Contributor to [**KDE Plasma**](https://invent.kde.org/mgadzhiumarov)
 - 💬 **Ask me about**: C++ metaprogramming, network programming, or system optimization
-- 📫 **Contact**: [Telegram](https://t.me/hitman_maths) | [Email](mailto:magomedgadziumarov265@gmail.com)
 
 ---
 
 ### 💻 Key Projects & Contributions
 
 #### ⚙️ Systems & C++ Development
-- **ConsoleChat** — A multi-threaded networked chat application implementing low-level network protocols.
+- **ConsoleChat** — Multi-threaded networked chat application implementing low-level network protocols.
 - **Kaspersky-test** — C++ system programming implementation and architectural test project.
 
 #### 🌐 Open Source
@@ -46,4 +43,16 @@ I specialize in system programming, multi-threaded applications, and network pro
 
 ---
 
-### And below you can see my projects, I want to share with you:
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TankucT-AC&theme=high-contrast&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hitman_maths)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:magomedgadziumarov265@gmail.com)
+[![KDE Invent](https://img.shields.io/badge/KDE_Invent-1CDC9B?style=for-the-badge&logo=kde&logoColor=white)](https://invent.kde.org/mgadzhiumarov)
