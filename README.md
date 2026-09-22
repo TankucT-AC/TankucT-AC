@@ -43,14 +43,6 @@ I specialize in system programming, multi-threaded applications, and network pro
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TankucT-AC&theme=high-contrast&hide_border=true" width="100%" alt="GitHub Activity Graph" />
-</p>
-
----
-
 ### 📫 Let's Connect
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hitman_maths)
