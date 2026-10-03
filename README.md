@@ -1,45 +1,41 @@
 ## Hi there 👋, my name is Magomed Gadzhiumarov
 ### C++ Software Engineer & CS Student at MAI
 
-I specialize in system programming, multi-threaded applications, and network protocols, with a primary focus on high-performance C++ development.
+I specialize in shitcode engineering, vibe coding and I have a black belt in skipping lectures. Ah, so I'm a C++/Qt dev.
 
 ---
 
 ### 🛠️ Languages & Skills
 
-**Primary Stack:**  
-[![My Skills](https://skillicons.dev/icons?i=cpp,qt,cmake,sqlite)](https://skillicons.dev)
+**Actually use:**
+C++ · Qt · QML · Python · Bash · CMake
 
-**Secondary & Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=c,python,django,scala,js,go,git,linux)](https://skillicons.dev)
+**Have used, will deny under oath:**
+Haskell · Scala · Rust · Go · Kotlin · Swift · Dart · Elixir · Erlang · Clojure · OCaml · F# · Nim · Zig · Crystal · Julia · R · MATLAB · Perl · Lua · Ruby · PHP · Java · C# · Objective-C · Fortran · COBOL · Ada · D · Groovy · Solidity · WebAssembly · Assembly (x86, ARM, and emotional damage)
 
-**Core Competencies:**
-- **C++ Development**: STL, Boost, Template Metaprogramming
-- **Systems & Networking**: Multi-threading, Network Protocols, System Programming
-- **Databases & Tools**: SQL, Database Schema Design, Linux, Git, OpenCode & OpenRouter
+**Frameworks & "frameworks":**
+Boost · POCO · SFML · SDL · Vulkan · OpenGL · Dear ImGui · React · Angular · Vue · Svelte · Next.js · Nuxt · Django · Flask · FastAPI · Spring Boot · .NET · Electron · Tauri · Flutter · React Native · Ionic · Cordova · jQuery (yes, still) · Bootstrap · Tailwind · HTMX · Alpine.js · Ember · Backbone · Meteor · Express · NestJS · Laravel · Rails · Phoenix · Axum · Actix · Rocket · Gin · Echo · Fiber · Ktor · Vapor · Compojure · Yesod · Servant · Reflex · PyTorch · TensorFlow · Keras · JAX · OpenCV · ROS · Unreal Engine · Unity · Godot · CryEngine · Cocos2d
+
+**Frameworks I've actually shipped:** Qt. That's it. That's the list.
+
+**Soft skills:** undefined behavior
 
 ---
 
 ### 📌 About Me
 
-- 🎓 **Education**: Computer Science at **Moscow Aviation Institute (MAI)**
-- 🔭 **Current Focus**: High-performance system architecture and network protocols
-- 🌐 **Open Source**: Contributor to [**KDE Plasma**](https://invent.kde.org/mgadzhiumarov)
-- 💬 **Ask me about**: C++ metaprogramming, network programming, or system optimization
+- **Education**: MAI · Institute of No. 3 · Computing Systems & Informatics · IVT '28
+- **Job Title**: 25 years Claude Code prompting, −2 147 483 648 years commercial devops, in 0 years I launched rockets into space
 
 ---
 
 ### 💻 Key Projects & Contributions
 
-#### ⚙️ Systems & C++ Development
-- **ConsoleChat** — Multi-threaded networked chat application implementing low-level network protocols.
-- **Kaspersky-test** — C++ system programming implementation and architectural test project.
-
 #### 🌐 Open Source
 - [**KDE Plasma**](https://invent.kde.org/mgadzhiumarov) — Open-source contributions and bug fixes within the desktop environment codebase.
 
 #### 🗄️ Database Architecture
-- [**OnyxChips**](https://github.com/Th3K3rn3l/onyxchips-) — Relational database schema design and data modeling.
+- [**OnyxChips**](https://github.com/Th3K3rn3l/onyxchips-) — probability distributions applied to an online casino sim (no real money, no gambling, just math).
 
 ---
 
