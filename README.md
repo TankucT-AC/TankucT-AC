@@ -8,15 +8,13 @@ I specialize in shitcode engineering, vibe coding and I have a black belt in ski
 ### 🛠️ Languages & Skills
 
 **Actually use:**
-C++ · Qt · QML · Python · Bash · CMake
+C++ · Qt · Python · Bash · CMake
 
 **Have used, will deny under oath:**
 Haskell · Scala · Rust · Go · Kotlin · Swift · Dart · Elixir · Erlang · Clojure · OCaml · F# · Nim · Zig · Crystal · Julia · R · MATLAB · Perl · Lua · Ruby · PHP · Java · C# · Objective-C · Fortran · COBOL · Ada · D · Groovy · Solidity · WebAssembly · Assembly (x86, ARM, and emotional damage)
 
 **Frameworks & "frameworks":**
 Boost · POCO · SFML · SDL · Vulkan · OpenGL · Dear ImGui · React · Angular · Vue · Svelte · Next.js · Nuxt · Django · Flask · FastAPI · Spring Boot · .NET · Electron · Tauri · Flutter · React Native · Ionic · Cordova · jQuery (yes, still) · Bootstrap · Tailwind · HTMX · Alpine.js · Ember · Backbone · Meteor · Express · NestJS · Laravel · Rails · Phoenix · Axum · Actix · Rocket · Gin · Echo · Fiber · Ktor · Vapor · Compojure · Yesod · Servant · Reflex · PyTorch · TensorFlow · Keras · JAX · OpenCV · ROS · Unreal Engine · Unity · Godot · CryEngine · Cocos2d
-
-**Frameworks I've actually shipped:** Qt. That's it. That's the list.
 
 **Soft skills:** undefined behavior
 
