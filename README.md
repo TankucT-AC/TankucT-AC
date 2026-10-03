@@ -35,6 +35,9 @@ Boost · POCO · SFML · SDL · Vulkan · OpenGL · Dear ImGui · React · Angul
 #### 🗄️ Database Architecture
 - [**OnyxChips**](https://github.com/Th3K3rn3l/onyxchips-) — probability distributions applied to an online casino sim (no real money, no gambling, just math).
 
+#### 🔐 Security
+- **SecretVault** — production-grade secret management system. API keys are protected by `.gitignore`, `.env.example`, and 3 years of denial.
+
 ---
 
 ### 📫 Let's Connect
